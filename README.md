@@ -31,25 +31,28 @@ Tracking of player in the cricket field during a match
 ### Key frames 
 
 ![alt text](https://github.com/yuhiremath/Player-Tracking-in-Cricket-Broadcasting-videos/blob/master/Images/key_frames.png)
-
+<br>
+<br>
 ### Vector Quantization of images using cluster centroids (Obtain blobs)
 
 ![alt text](https://github.com/yuhiremath/Player-Tracking-in-Cricket-Broadcasting-videos/blob/master/Images/obtaining_cluster_centers.png)
-
+<br>
+<br>
 ### Edge Detection 
 
 ![alt text](https://github.com/yuhiremath/Player-Tracking-in-Cricket-Broadcasting-videos/blob/master/Images/edge_detection.png)
-
-
+<br>
+<br>
 ### Combining blob and edge detection 
 
 ![alt text](https://github.com/yuhiremath/Player-Tracking-in-Cricket-Broadcasting-videos/blob/master/Images/combining_edge_blob.png)
-
-
+<br>
+<br>
 ### Bounding boxes to detect players
 
 ![alt text](https://github.com/yuhiremath/Player-Tracking-in-Cricket-Broadcasting-videos/blob/master/Images/bouding_boxes.png)
-
+<br>
+<br>
 
 
 
